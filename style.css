@@ -1,3 +1,18 @@
 body{
-	background: seashell;
+	background: url(bckgnd.jpg) no-repeat;
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; 
+}
+.main-title{
+	color: #000;
+	font-family: 'Lobster', cursive;
+}
+.verse-content{
+	color: #000;
+	font-family: 'Marck Script', cursive;
+	font-size: 22px;
+	margin: 5px;
+}
+.footer{
+	font-family: 'Bad Script', cursive;
 }
